@@ -1,4 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
+//https://ac.nowcoder.com/acm/problem/226333
+
 #include<iostream>
 
 using namespace std;
